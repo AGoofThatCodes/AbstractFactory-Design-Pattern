@@ -16,12 +16,13 @@ AmericanFactory and AfricanFactory(ConcreteFactory)
 - implements the operations to create concrete product objects
 
 Herbivore and Carnivore(AbstractProduct)
--Declares an interface for a type f product object
+- Declares an interface for a type f product object
+
 
 Wildbeest, Lion, Bison and Wold(Product)
 
--Defines a product object to be created by the corresponding concrete factory(Africa and America)
--Implements the AbstractProduct interface(Herbivore and Carnivore)
+- Defines a product object to be created by the corresponding concrete factory(Africa and America)
+- Implements the AbstractProduct interface(Herbivore and Carnivore)
 
 Animal World(Client)
--Uses interfaces by AbstractFactory and AbstractProduct classes
+- Uses interfaces by AbstractFactory and AbstractProduct classes
