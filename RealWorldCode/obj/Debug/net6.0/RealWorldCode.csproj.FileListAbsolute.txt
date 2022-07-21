@@ -1,0 +1,15 @@
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\bin\Debug\net6.0\RealWorldCode.exe
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\bin\Debug\net6.0\RealWorldCode.deps.json
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\bin\Debug\net6.0\RealWorldCode.runtimeconfig.json
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\bin\Debug\net6.0\RealWorldCode.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\bin\Debug\net6.0\ref\RealWorldCode.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\bin\Debug\net6.0\RealWorldCode.pdb
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\obj\Debug\net6.0\RealWorldCode.csproj.AssemblyReference.cache
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\obj\Debug\net6.0\RealWorldCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\obj\Debug\net6.0\RealWorldCode.AssemblyInfoInputs.cache
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\obj\Debug\net6.0\RealWorldCode.AssemblyInfo.cs
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\obj\Debug\net6.0\RealWorldCode.csproj.CoreCompileInputs.cache
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\obj\Debug\net6.0\RealWorldCode.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\obj\Debug\net6.0\ref\RealWorldCode.dll
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\obj\Debug\net6.0\RealWorldCode.pdb
+C:\Users\KirstySelesho\Desktop\PersonalProjects\AbstractFactory-Design-Pattern\StructuralCode\RealWorldCode\obj\Debug\net6.0\RealWorldCode.genruntimeconfig.cache

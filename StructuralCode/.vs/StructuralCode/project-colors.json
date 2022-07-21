@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db323a89-edcc-428c-bf54-ea816d9fc7cf": {
+      "ProjectGuid": "db323a89-edcc-428c-bf54-ea816d9fc7cf",
+      "DisplayName": "StructuralCode",
+      "ColorIndex": 0
+    },
+    "4759c792-77fb-4024-9745-eea637c599d3": {
+      "ProjectGuid": "4759c792-77fb-4024-9745-eea637c599d3",
+      "DisplayName": "RealWorldCode",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
